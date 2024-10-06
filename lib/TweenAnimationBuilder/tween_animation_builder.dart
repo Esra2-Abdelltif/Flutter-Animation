@@ -19,13 +19,15 @@ class _TweenAnimationBuilderWidgetState extends State<TweenAnimationBuilderWidge
       ),
       body: Center(
         child: TweenAnimationBuilder(
-            tween: Tween(begin: 50.0, end: 300.0),
+             // tween: Tween(begin: 50.0, end: 300.0),
+            tween: ColorTween(begin: Colors.purple, end: Colors.yellow),
+
             duration: const Duration(seconds: 5),
             builder: (context,value,child){
               return  Container(
-                height: value,
-                width: value,
-                color: Colors.deepPurple,
+                height: 200,
+                width: 200,
+                color: value,
               );
             }),
       ),
