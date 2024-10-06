@@ -1,7 +1,20 @@
-# ⚡ AnimatedPositioned 
+# ⚡ Animated Size
 
 # 🚀 Demo
 
 
-https://github.com/user-attachments/assets/51ac7be1-7fc9-4ae6-a5b1-9b7b3a5d00f8
+https://github.com/user-attachments/assets/68e47eec-5cd1-453f-88d5-9e302d8ac164
+
+
+
+
+# ⚡ AnimatedAlign 
+
+# 🚀 Demo
+
+
+
+
+
+https://github.com/user-attachments/assets/4e28722d-cf82-4225-9e28-511f59941a77
 
