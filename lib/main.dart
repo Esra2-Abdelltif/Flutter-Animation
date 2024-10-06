@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
-import 'package:flutter_animation/AnimatedAlign/animated_align.dart';
+import 'package:flutter_animation/Implicit%20Animations/TweenAnimationBuilder/tween_animation_builder.dart';
 void main() {
   runApp((DevicePreview(
     enabled: true,
@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const AnimatedAlignWidget(),
+      home: const TweenAnimationBuilderWidget(),
     );
   }
 }
