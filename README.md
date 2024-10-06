@@ -1,4 +1,4 @@
-⚡ # Animated Container
+# ⚡ Animated Container
 
 # 🚀 Demo 
 
