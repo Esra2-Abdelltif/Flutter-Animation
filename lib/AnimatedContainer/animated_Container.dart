@@ -34,6 +34,8 @@ class _AnimatedContainerWidgetState extends State<AnimatedContainerWidget> {
             },
             child: Center(
               child: AnimatedContainer(
+                //بيحدد سرعه عرض ال Animation
+                curve: Curves.bounceIn,
                 decoration: BoxDecoration(
                     color: colorContainer,
                     borderRadius: BorderRadius.circular(borderRadius)),
