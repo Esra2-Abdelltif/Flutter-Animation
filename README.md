@@ -1,12 +1,7 @@
-# ⚡ Animated Opacity 
+# ⚡ AnimatedPositioned 
 
 # 🚀 Demo
 
-https://github.com/user-attachments/assets/e58a3d26-5da3-4a56-a269-a74211ea0652
 
+https://github.com/user-attachments/assets/51ac7be1-7fc9-4ae6-a5b1-9b7b3a5d00f8
 
-
-# ⚡  Animated Default TextStyle
-
-# 🚀 Demo
-https://github.com/user-attachments/assets/49530673-fb5a-4fd5-a71b-7908d75d0dd5
