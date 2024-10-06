@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
-import 'package:flutter_animation/AnimatedOpacity/animated_opacity.dart';
+import 'package:flutter_animation/animatedDefaultTextStyle/animated_default_textStyle.dart';
 void main() {
   runApp((DevicePreview(
     enabled: true,
@@ -16,13 +16,13 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Flutter Animation',
       theme: ThemeData(
         appBarTheme: const AppBarTheme(backgroundColor: Colors.deepPurple,centerTitle: true,titleTextStyle: TextStyle(color: Colors.white) ),
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const AnimatedOpacityWidget(),
+      home: const AnimatedDefaultTextStyleWidget(),
     );
   }
 }
