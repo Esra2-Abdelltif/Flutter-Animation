@@ -43,7 +43,7 @@ class _AnimatedBuilderWidgetState extends State<AnimatedBuilderWidget>
                 );
               },
               //الوديجيت مش هيتعملها Rebuild لل Animations
-              child:const Text("Explicit Animations",style: const TextStyle(color: Colors.white),),
+              child:const Text("Animated Builder",style:  TextStyle(color: Colors.white),),
             ),
           ),
           ButtonWidget(
